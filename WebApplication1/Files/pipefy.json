@@ -1,0 +1,3286 @@
+{
+    "data": {
+        "table_records": {
+            "edges": [
+                {
+                    "node": {
+                        "id": "431176086",
+                        "record_fields": [
+                            {
+                                "value": "25130",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Thiago Cruz Oliveira Barros\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Lava Rapido Toboga\"]",
+                                "name": "Empresa"
+                            },
+                            {
+                                "value": "[\"Empresarial\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "Triagem",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "0.00",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "0",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/03395a67-c091-41cb-83f0-c5d4dcf9e821",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/03395a67-c091-41cb-83f0-c5d4dcf9e821",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "[25130]: Thiago Cruz Oliveira Barros",
+                                "name": "Título Cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431185227",
+                        "record_fields": [
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Renato Cordeiro Sudati \"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "01/07/2021 05:35 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25132",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"ARGO SEGUROS BRASIL S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "Negociacao",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25132]: Renato Cordeiro Sudati ",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/51e35976-311e-45b5-b3ce-e21ff694a1ac",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/51e35976-311e-45b5-b3ce-e21ff694a1ac",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "873.35",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "0",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Consultor"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431192005",
+                        "record_fields": [
+                            {
+                                "value": "[\"Rodolfo Santos Silvestre \"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "1",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "[25133]: Rodolfo Santos Silvestre ",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "Online",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Draft\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "01/07/2021 01:27 AM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "01/07/2021 01:24 AM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25133",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Vida Individual\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"ICATU SEGUROS S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "Negociacao",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/c336939d-02cc-49fe-bce6-6b89b3820d0c",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/c336939d-02cc-49fe-bce6-6b89b3820d0c",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "63.18",
+                                "name": "Valor da cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431195169",
+                        "record_fields": [
+                            {
+                                "value": "[\"Monique Silva Anderson Rocha\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Vida Individual\", \"Equipamentos\", \"Empresarial\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"ICATU SEGUROS S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/104043ac-50e7-4dda-bef7-99a31536b04c",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "117.52",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "4",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "01/07/2021 02:26 AM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "01/07/2021 02:19 AM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25134",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "Negociacao",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "Hibrido",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[25134]: Monique Silva Anderson Rocha",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/104043ac-50e7-4dda-bef7-99a31536b04c",
+                                "name": "[URL] Cockpit"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431224321",
+                        "record_fields": [
+                            {
+                                "value": "Hibrido",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "Negociacao",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/50984e21-216c-4daf-bf7a-5518eaf41ad8",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/50984e21-216c-4daf-bf7a-5518eaf41ad8",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "4,670.96",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "6",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "[\"Alexandre De Barros Leite \"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "01/07/2021 06:51 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "01/07/2021 12:15 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25138",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[25138]: Alexandre De Barros Leite ",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "[\"ICATU SEGUROS S.A.\", \"SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS SA\", \"PORTO SEGURO CIA. DE SEGUROS GERAIS\", \"MAPFRE SEGUROS GERAIS S.A.\"]",
+                                "name": "Seguradoras"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431265941",
+                        "record_fields": [
+                            {
+                                "value": "25139",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Antônio Mendes \"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Empresarial\", \"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "FalsoPositivo",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "0.00",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "0",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/c83e9aa6-1ecf-4e36-801d-6742bcdc2eb4",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "01/07/2021 12:23 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "01/07/2021 02:36 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/c83e9aa6-1ecf-4e36-801d-6742bcdc2eb4",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "[25139]: Antônio Mendes ",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "[\"Draft\"]",
+                                "name": "Consultor"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431267233",
+                        "record_fields": [
+                            {
+                                "value": "0",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "[\"Draft\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "[25137]: Lucas Peixoto",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "[\"Lucas Peixoto\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "01/07/2021 02:41 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "01/07/2021 12:10 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25137",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"PORTO SEGURO CIA. DE SEGUROS GERAIS\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "Desistencia",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/1717aa3e-b055-4e21-8e8c-88dd30e3a127",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/1717aa3e-b055-4e21-8e8c-88dd30e3a127",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "2,245.78",
+                                "name": "Valor da cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431267545",
+                        "record_fields": [
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "01/07/2021 04:40 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "01/07/2021 02:58 AM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "[\"Icaro Xavier Dos Santos Mattos\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "25135",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "2",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"PORTO SEGURO CIA. DE SEGUROS GERAIS\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "Desistencia",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25135]: Icaro Xavier Dos Santos Mattos",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/e5b82bf5-16e0-4486-83de-47f1427472b0",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/e5b82bf5-16e0-4486-83de-47f1427472b0",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "1,551.17",
+                                "name": "Valor da cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431271173",
+                        "record_fields": [
+                            {
+                                "value": "3",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "Hibrido",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Marcos Vinicius Nogueira\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Draft\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "01/07/2021 06:50 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "01/07/2021 02:52 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25153",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"PORTO SEGURO CIA. DE SEGUROS GERAIS\", \"ICATU SEGUROS S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "Negociacao",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25153]: Marcos Vinicius Nogueira",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/930ddff1-3112-4cab-af00-0f7c3da3d484",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/930ddff1-3112-4cab-af00-0f7c3da3d484",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "1,884.37",
+                                "name": "Valor da cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431299639",
+                        "record_fields": [
+                            {
+                                "value": "25157",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Antonio Francisco Luz\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Fiança Locatícia\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "Triagem",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "0.00",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "0",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/9b8aeac6-4122-4d28-a17f-ca12780f2726",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "01/07/2021 04:24 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "01/07/2021 04:34 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/9b8aeac6-4122-4d28-a17f-ca12780f2726",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "[25157]: Antonio Francisco Luz",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Consultor"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431299804",
+                        "record_fields": [
+                            {
+                                "value": "[\"Fabio Cruz\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "25158",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Vida Individual\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"ICATU SEGUROS S.A.\", \"SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS SA\", \"PORTO SEGURO CIA. DE SEGUROS GERAIS\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "Online",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Thaisa Ranieri\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "01/07/2021 05:23 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "01/07/2021 04:31 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "Negociacao",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25158]: Fabio Cruz",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/37b7c1f2-e4b9-4441-ab26-e568adebc435",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/37b7c1f2-e4b9-4441-ab26-e568adebc435",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "192.42",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "1",
+                                "name": "Visualizações da cotação "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431318460",
+                        "record_fields": [
+                            {
+                                "value": "Negociacao",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25164]: Jeferson Souza",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "1,900.04",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Jeferson Souza\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "01/07/2021 08:32 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "01/07/2021 05:52 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "[\"COMPANY CONTROL CONTABILIDADE\"]",
+                                "name": "Empresa"
+                            },
+                            {
+                                "value": "25164",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"FATOR SEGURADORA S.A.\", \"PORTO SEGURO CIA. DE SEGUROS GERAIS\", \"ARGO SEGUROS BRASIL S.A.\", \"BERKLEY SEGUROS\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/34d87b9c-9dc1-49c4-a0ee-01477da210b5",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "3",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/34d87b9c-9dc1-49c4-a0ee-01477da210b5",
+                                "name": "URL da cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431345331",
+                        "record_fields": [
+                            {
+                                "value": "Negociacao",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[\"Regina A. Shuller de Almeida\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "[\"Felipe Teodoro Paz\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "01/07/2021 08:37 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "01/07/2021 07:11 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "[\"Contabilidade DAtacon\"]",
+                                "name": "Empresa"
+                            },
+                            {
+                                "value": "25174",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"PORTO SEGURO CIA. DE SEGUROS GERAIS\", \"FATOR SEGURADORA S.A.\", \"ARGO SEGUROS BRASIL S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "[25174]: Felipe Teodoro Paz",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/9f7129fc-38c0-46e2-a920-67d0f4453e9d",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/9f7129fc-38c0-46e2-a920-67d0f4453e9d",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "1,211.60",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "3",
+                                "name": "Visualizações da cotação "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431352658",
+                        "record_fields": [
+                            {
+                                "value": "[\"ARGO SEGUROS BRASIL S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "Negociacao",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25175]: Loecir Cezar",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "1",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Loecir Cezar\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Draft\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "01/07/2021 09:00 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "01/07/2021 07:42 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25175",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/2fffd2bf-a41a-43a4-8fe4-9d128000faf7",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/2fffd2bf-a41a-43a4-8fe4-9d128000faf7",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "3,233.73",
+                                "name": "Valor da cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431382445",
+                        "record_fields": [
+                            {
+                                "value": "25176",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Kelly S B Vieira\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "Triagem",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "0.00",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "0",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/5b9f1850-958e-4b8f-a63b-8e743aa96d94",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "01/07/2021 09:18 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "01/07/2021 09:23 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/5b9f1850-958e-4b8f-a63b-8e743aa96d94",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "[25176]: Kelly S B Vieira",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Consultor"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431386515",
+                        "record_fields": [
+                            {
+                                "value": "Online",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Agnei Silva\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "02/07/2021 09:13 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "01/07/2021 09:45 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25182",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Vida Individual\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"ICATU SEGUROS S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "FalsoPositivo",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25182]: Agnei Silva",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/f0586313-53bd-4da1-aaa9-c5b64682652d",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/f0586313-53bd-4da1-aaa9-c5b64682652d",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "32.18",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "2",
+                                "name": "Visualizações da cotação "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431386529",
+                        "record_fields": [
+                            {
+                                "value": "[\"Ygor Azevedo\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "Hibrido",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Regina A. Shuller de Almeida\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "01/07/2021 10:21 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "01/07/2021 09:43 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25180",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Vida Individual\", \"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"ICATU SEGUROS S.A.\", \"PORTO SEGURO CIA. DE SEGUROS GERAIS\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "FalsoPositivo",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/1214be89-2bbb-449d-8815-44e038c50c05",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "40.29",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "1",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "[]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[25180]: Ygor Azevedo",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/1214be89-2bbb-449d-8815-44e038c50c05",
+                                "name": "[URL] Cockpit"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431386543",
+                        "record_fields": [
+                            {
+                                "value": "25005",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Sanderson Lienio Da Silva Mafra\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"PORTO SEGURO CIA. DE SEGUROS GERAIS\", \"ARGO SEGUROS BRASIL S.A.\", \"FATOR SEGURADORA S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "Desistencia",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "2,292.79",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "Online",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "1",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/82d7671a-74a7-4dcb-bfa1-c796b5550921",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "01/07/2021 09:45 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/82d7671a-74a7-4dcb-bfa1-c796b5550921",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "[25005]: Sanderson Lienio Da Silva Mafra",
+                                "name": "Título Cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431386939",
+                        "record_fields": [
+                            {
+                                "value": "25176",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Kelly S B Vieira\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Draft\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "06/07/2021 03:44 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "01/07/2021 09:18 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"ARGO SEGUROS BRASIL S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "Fechado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25176]: Kelly S B Vieira",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/5b9f1850-958e-4b8f-a63b-8e743aa96d94",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/5b9f1850-958e-4b8f-a63b-8e743aa96d94",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "383.35",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "4",
+                                "name": "Visualizações da cotação "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431387116",
+                        "record_fields": [
+                            {
+                                "value": "24917",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Idenir Da Silva Mattos\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Vida Individual\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"ICATU SEGUROS S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "Desistencia",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "40.52",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "Online",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "1",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/c1b0fb90-7bb4-4253-a336-b282948aef0d",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "01/07/2021 09:50 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/c1b0fb90-7bb4-4253-a336-b282948aef0d",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "[24917]: Idenir Da Silva Mattos",
+                                "name": "Título Cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431390113",
+                        "record_fields": [
+                            {
+                                "value": "",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Loecir Cezar\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Draft\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "01/07/2021 07:42 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25175",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"ARGO SEGUROS BRASIL S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "NaoFechado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25175]: Loecir Cezar",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/2fffd2bf-a41a-43a4-8fe4-9d128000faf7",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/2fffd2bf-a41a-43a4-8fe4-9d128000faf7",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "3,233.73",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "4",
+                                "name": "Visualizações da cotação "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431397149",
+                        "record_fields": [
+                            {
+                                "value": "0",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Regina Aparecida Shuller De Almeida\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Regina A. Shuller de Almeida\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "02/07/2021 11:46 AM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "01/07/2021 11:45 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25188",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"ARGO SEGUROS BRASIL S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "FalsoPositivo",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25188]: Regina Aparecida Shuller De Almeida",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/f1b7fb9e-0c39-44e5-90cd-e39ba552096a",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/f1b7fb9e-0c39-44e5-90cd-e39ba552096a",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "0.00",
+                                "name": "Valor da cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431426929",
+                        "record_fields": [
+                            {
+                                "value": "25179",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Agnei Silva\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Vida Individual\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"ICATU SEGUROS S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "FalsoPositivo",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "32.18",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "Online",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "1",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/7b308f1c-92ec-4cd2-a7c4-1c802e3c0edb",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "01/07/2021 09:29 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "02/07/2021 11:48 AM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/7b308f1c-92ec-4cd2-a7c4-1c802e3c0edb",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "[25179]: Agnei De Carvalho Silva",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Consultor"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431426952",
+                        "record_fields": [
+                            {
+                                "value": "25178",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Ygor Azevedo\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Vida Individual\", \"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"ARGO SEGUROS BRASIL S.A.\", \"ICATU SEGUROS S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "FalsoPositivo",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "340.29",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "Hibrido",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "1",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/d862f21c-12a9-4abf-a04d-4f747f62e373",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "01/07/2021 09:29 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "02/07/2021 11:48 AM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/d862f21c-12a9-4abf-a04d-4f747f62e373",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "[25178]: Ygor Azevedo",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Consultor"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431430476",
+                        "record_fields": [
+                            {
+                                "value": "0",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "[\"Egidio Domingos André Neto\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "07/07/2021 08:21 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "02/07/2021 11:16 AM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25189",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"PORTO SEGURO CIA. DE SEGUROS GERAIS\", \"FATOR SEGURADORA S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "Desistencia",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25189]: Egidio Domingos André Neto",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/bd5f958e-7656-4a51-b84a-a63d0f715426",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/bd5f958e-7656-4a51-b84a-a63d0f715426",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "774.03",
+                                "name": "Valor da cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431430878",
+                        "record_fields": [
+                            {
+                                "value": "",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "3",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Willianne Araujo Oliveira \"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Draft\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "02/07/2021 12:15 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25190",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"ARGO SEGUROS BRASIL S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "NaoFechado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25190]: Willianne Araujo Oliveira",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/6f69a1a4-91c4-49d1-a036-2c922f43b9da",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/6f69a1a4-91c4-49d1-a036-2c922f43b9da",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "291.18",
+                                "name": "Valor da cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431432708",
+                        "record_fields": [
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Isabella Queiroz Guimaraes Luna\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "02/07/2021 12:23 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25191",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"PORTO SEGURO CIA. DE SEGUROS GERAIS\", \"ARGO SEGUROS BRASIL S.A.\", \"FATOR SEGURADORA S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "NaoFechado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25191]: Isabella Queiroz Guimaraes Luna",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/c1218b9e-b89b-4ac2-ae08-0f7c8a89bec2",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/c1218b9e-b89b-4ac2-ae08-0f7c8a89bec2",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "3,270.52",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "2",
+                                "name": "Visualizações da cotação "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431437235",
+                        "record_fields": [
+                            {
+                                "value": "[\"Thaisa Ranieri\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "Online",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Jean Carlo Aoyagui\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "07/07/2021 03:20 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "02/07/2021 12:46 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25194",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Vida Individual\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"ICATU SEGUROS S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "NaoFechado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25194]: Jean Carlo Aoyagui",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/c5fc70eb-b008-4569-96f7-d6d4b739d5a2",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/c5fc70eb-b008-4569-96f7-d6d4b739d5a2",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "655.61",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "3",
+                                "name": "Visualizações da cotação "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431441929",
+                        "record_fields": [
+                            {
+                                "value": "25197",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Ilson Gomes\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "FalsoPositivo",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "0.00",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "0",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/d6b0ebf9-7164-476f-84fe-1922d8b160b8",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "02/07/2021 01:03 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "02/07/2021 01:13 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/d6b0ebf9-7164-476f-84fe-1922d8b160b8",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "[25197]: Ilson Gomes",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Consultor"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431450093",
+                        "record_fields": [
+                            {
+                                "value": "[\"Ygor Azevedo\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "Hibrido",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "07/02/2021 10:46 AM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "07/02/2021 10:45 AM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "24965",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\", \"Vida Individual\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"ICATU SEGUROS S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "Negociacao",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[24965]: Ygor Azevedo",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "http://localhost:4300/#/calculo-cotacao/168485e9-e11a-45b1-b472-264caf3b7dbe",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "http://localhost:4200/#/quotes/precificacao/168485e9-e11a-45b1-b472-264caf3b7dbe",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "40.29",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "1",
+                                "name": "Visualizações da cotação "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431454673",
+                        "record_fields": [
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Odara Caroliny Dos Santos \"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Draft\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "02/07/2021 05:41 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "24891",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Vida Individual\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"ARGO SEGUROS BRASIL S.A.\", \"PORTO SEGURO CIA. DE SEGUROS GERAIS\", \"SOMPO SEGUROS S.A.\", \"SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS SA\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "Fechado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[24891]: Odara Caroliny Dos Santos ",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/f195ba56-e14b-4e88-8c0b-ce9e66057413",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/f195ba56-e14b-4e88-8c0b-ce9e66057413",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "2,852.92",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "6",
+                                "name": "Visualizações da cotação "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431459607",
+                        "record_fields": [
+                            {
+                                "value": "23627",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Renata Pereira\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"FATOR SEGURADORA S.A.\", \"ARGO SEGUROS BRASIL S.A.\", \"PORTO SEGURO CIA. DE SEGUROS GERAIS\", \"BERKLEY SEGUROS\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "NaoFechado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "3,661.88",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "3",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/ebe50def-bfa2-4315-980d-8fb84c60ea3a",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "02/07/2021 02:23 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/ebe50def-bfa2-4315-980d-8fb84c60ea3a",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "[23627]: Renata Pereira",
+                                "name": "Título Cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431459811",
+                        "record_fields": [
+                            {
+                                "value": "23804",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Jonas Henrique Baima Pinheiro\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"ARGO SEGUROS BRASIL S.A.\", \"PORTO SEGURO CIA. DE SEGUROS GERAIS\", \"FATOR SEGURADORA S.A.\", \"BERKLEY SEGUROS\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "NaoFechado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "4,335.73",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "1",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/658cddd8-3876-4f2e-a099-a12f43ebdb3c",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "02/07/2021 02:24 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/658cddd8-3876-4f2e-a099-a12f43ebdb3c",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "[23804]: Jonas Henrique Baima Pinheiro",
+                                "name": "Título Cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431459926",
+                        "record_fields": [
+                            {
+                                "value": "23918",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Cledna Maria Miranda Barbosa\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"bn soluções empresariais \"]",
+                                "name": "Empresa"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"PORTO SEGURO CIA. DE SEGUROS GERAIS\", \"BERKLEY SEGUROS\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "NaoFechado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "1,015.10",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "Online",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "1",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/ca8c5c60-af27-4dc2-abcd-89b7abfb7627",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "01/06/2021 06:11 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "02/07/2021 02:24 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/ca8c5c60-af27-4dc2-abcd-89b7abfb7627",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "[23918]: Cledna Maria Miranda Barbosa",
+                                "name": "Título Cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431465019",
+                        "record_fields": [
+                            {
+                                "value": "Online",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Rodolfo Santos Silvestre \"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Draft\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "[\"ICATU SEGUROS S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "FalsoPositivo",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25133]: Rodolfo Santos Silvestre ",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "02/07/2021 08:38 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "01/07/2021 01:24 AM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25133",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Vida Individual\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/c336939d-02cc-49fe-bce6-6b89b3820d0c",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/c336939d-02cc-49fe-bce6-6b89b3820d0c",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "63.18",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "3",
+                                "name": "Visualizações da cotação "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431465796",
+                        "record_fields": [
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Diego Barbosa\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Draft\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "02/07/2021 02:39 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "[\"FISCO VISTORIAS\"]",
+                                "name": "Empresa"
+                            },
+                            {
+                                "value": "25201",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"PORTO SEGURO CIA. DE SEGUROS GERAIS\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "Desistencia",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25201]: Diego Barbosa",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/2334b57c-264f-490d-b8ff-b884bde7e893",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/2334b57c-264f-490d-b8ff-b884bde7e893",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "2,863.15",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "2",
+                                "name": "Visualizações da cotação "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431472246",
+                        "record_fields": [
+                            {
+                                "value": "02/07/2021 02:58 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "02/07/2021 02:55 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25202",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "0.00",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "[\"ARGO SEGUROS BRASIL S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "[25202]: Regina Aparecida Shuller De Almeida",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/50ca22ef-4be6-4de2-a594-65c2692075e2",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/50ca22ef-4be6-4de2-a594-65c2692075e2",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "[\"Regina Aparecida Shuller De Almeida\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "0",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Regina A. Shuller de Almeida\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "FalsoPositivo",
+                                "name": "Status"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431479986",
+                        "record_fields": [
+                            {
+                                "value": "[\"Regina A. Shuller de Almeida\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Marcelo Felinto\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "02/07/2021 03:28 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "[\"CENSEA CONSULTORES E ASSOCIADOS\"]",
+                                "name": "Empresa"
+                            },
+                            {
+                                "value": "25204",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"ARGO SEGUROS BRASIL S.A.\", \"PORTO SEGURO CIA. DE SEGUROS GERAIS\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "Fechado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25204]: Marcelo Felinto",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/cce0527f-e5eb-4a78-9dfb-effd5bb4633e",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/cce0527f-e5eb-4a78-9dfb-effd5bb4633e",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "1,173.39",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "1",
+                                "name": "Visualizações da cotação "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431482885",
+                        "record_fields": [
+                            {
+                                "value": "25130",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Thiago Cruz Oliveira Barros\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Lava Rapido Toboga\"]",
+                                "name": "Empresa"
+                            },
+                            {
+                                "value": "[\"Empresarial\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "Fechado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "0.00",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "0",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/03395a67-c091-41cb-83f0-c5d4dcf9e821",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "02/07/2021 03:45 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/03395a67-c091-41cb-83f0-c5d4dcf9e821",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "[25130]: Thiago Cruz Oliveira Barros",
+                                "name": "Título Cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431502793",
+                        "record_fields": [
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"ARGO SEGUROS BRASIL S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "Fechado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25013]: Valdeci Laurindo Do Nascimento",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Valdeci Laurindo Do Nascimento\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Draft\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "05/07/2021 03:28 AM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25013",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/9b5ef21c-9971-4842-a367-011dfd57cd16",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/9b5ef21c-9971-4842-a367-011dfd57cd16",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "383.35",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "10",
+                                "name": "Visualizações da cotação "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431507954",
+                        "record_fields": [
+                            {
+                                "value": "25198",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Bruno Amaral Pires De Almeida\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "11/07/2021 02:38 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "02/07/2021 01:18 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "[\"Provanza Vila Velha\"]",
+                                "name": "Empresa"
+                            },
+                            {
+                                "value": "[\"Empresarial\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"SOMPO SEGUROS S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "Desistencia",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25198]: Bruno Amaral Pires De Almeida",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/fe6983c5-a232-4646-9a9b-9e093026829b",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/fe6983c5-a232-4646-9a9b-9e093026829b",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "226.63",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "3",
+                                "name": "Visualizações da cotação "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431509098",
+                        "record_fields": [
+                            {
+                                "value": "0",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "[\"Draft\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Larissa Lima Da Silva Stela\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "02/07/2021 08:12 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "25211",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "02/07/2021 05:59 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "[\" Wuji Industrial E Com. De Equipamentos.\"]",
+                                "name": "Empresa"
+                            },
+                            {
+                                "value": "[\"Empresarial\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "Recusado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25211]: Larissa Lima Da Silva Stela",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/a1b99260-47a3-405d-8684-d03a09996015",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/a1b99260-47a3-405d-8684-d03a09996015",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "0.00",
+                                "name": "Valor da cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431519106",
+                        "record_fields": [
+                            {
+                                "value": "25094",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Rafael Lana Rezende\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\", \"Engenharia\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"ARGO SEGUROS BRASIL S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "Desistencia",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "1,239.19",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "1",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/0ec9efa2-c0b7-4026-a571-1802e86bdc3b",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "02/07/2021 06:51 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/0ec9efa2-c0b7-4026-a571-1802e86bdc3b",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "[25094]: Rafael Lana Rezende",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "[\"Draft\"]",
+                                "name": "Consultor"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431524314",
+                        "record_fields": [
+                            {
+                                "value": "25212",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"ARGO SEGUROS BRASIL S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "NaoFechado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Willianne Araujo Oliveira \"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Draft\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "02/07/2021 07:07 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "[25212]: Willianne Araujo Oliveira ",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/58f6dde9-ca7b-47b6-a2df-608f9c0c43eb",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/58f6dde9-ca7b-47b6-a2df-608f9c0c43eb",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "951.08",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "2",
+                                "name": "Visualizações da cotação "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431538627",
+                        "record_fields": [
+                            {
+                                "value": "24926",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Annestella Pereira Alves\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Vida Individual\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS SA\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "NaoFechado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "228.24",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "Online",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "0",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/c03a5e17-b997-4c49-8d7c-4ed958f3a04d",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "02/07/2021 08:11 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/c03a5e17-b997-4c49-8d7c-4ed958f3a04d",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "[24926]: Annestella Pereira Alves",
+                                "name": "Título Cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431538804",
+                        "record_fields": [
+                            {
+                                "value": "24982",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Marcelo Da Cunha De Souza\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Empresarial\", \"Equipamentos\", \"Engenharia\", \"Fiança Locatícia\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "NaoFechado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "0.00",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "0",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/261860f2-e06d-44e1-bbb0-2a111071fe82",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "02/07/2021 08:12 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/261860f2-e06d-44e1-bbb0-2a111071fe82",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "[24982]: Marcelo Da Cunha De Souza",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "[\"Draft\"]",
+                                "name": "Consultor"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431545339",
+                        "record_fields": [
+                            {
+                                "value": "24794",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Julia Navarro Perioto\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"ARGO SEGUROS BRASIL S.A.\", \"FATOR SEGURADORA S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "NaoFechado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "3,729.12",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "1",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/229e037b-3f4d-4f78-8bdb-91984c403bbb",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "02/07/2021 08:31 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/229e037b-3f4d-4f78-8bdb-91984c403bbb",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "[24794]: Julia Navarro Perioto",
+                                "name": "Título Cotação"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431552330",
+                        "record_fields": [
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Felipe Teodoro Paz\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "01/07/2021 07:11 PM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "[\"Contabilidade DAtacon\"]",
+                                "name": "Empresa"
+                            },
+                            {
+                                "value": "25174",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"PORTO SEGURO CIA. DE SEGUROS GERAIS\", \"FATOR SEGURADORA S.A.\", \"ARGO SEGUROS BRASIL S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "NaoFechado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25174]: Felipe Teodoro Paz",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/9f7129fc-38c0-46e2-a920-67d0f4453e9d",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/9f7129fc-38c0-46e2-a920-67d0f4453e9d",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "1,211.60",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "4",
+                                "name": "Visualizações da cotação "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431552765",
+                        "record_fields": [
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Renato Cordeiro Sudati \"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "07/07/2021 01:58 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "25132",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "[\"ARGO SEGUROS BRASIL S.A.\"]",
+                                "name": "Seguradoras"
+                            },
+                            {
+                                "value": "NaoFechado",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25132]: Renato Cordeiro Sudati ",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/51e35976-311e-45b5-b3ce-e21ff694a1ac",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/51e35976-311e-45b5-b3ce-e21ff694a1ac",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "873.35",
+                                "name": "Valor da cotação"
+                            },
+                            {
+                                "value": "0",
+                                "name": "Visualizações da cotação "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "node": {
+                        "id": "431590284",
+                        "record_fields": [
+                            {
+                                "value": "25218",
+                                "name": "Número da cotação"
+                            },
+                            {
+                                "value": "0",
+                                "name": "Visualizações da cotação "
+                            },
+                            {
+                                "value": "Offline",
+                                "name": "Automação de preço"
+                            },
+                            {
+                                "value": "[\"Juliana Oliveira\"]",
+                                "name": "Cliente"
+                            },
+                            {
+                                "value": "[\"Adriano Fernandes\"]",
+                                "name": "Consultor"
+                            },
+                            {
+                                "value": "03/07/2021 02:38 PM",
+                                "name": "Data e hora da atualização"
+                            },
+                            {
+                                "value": "03/07/2021 08:38 AM",
+                                "name": "Data e hora da criação"
+                            },
+                            {
+                                "value": "[\"Planejar Consultoria\"]",
+                                "name": "Empresa"
+                            },
+                            {
+                                "value": "[\"Responsabilidade Civil Profissional\"]",
+                                "name": "Produtos"
+                            },
+                            {
+                                "value": "[\"Guilherme Silva\"]",
+                                "name": "Responsável "
+                            },
+                            {
+                                "value": "FalsoPositivo",
+                                "name": "Status"
+                            },
+                            {
+                                "value": "[25218]: Juliana Oliveira",
+                                "name": "Título Cotação"
+                            },
+                            {
+                                "value": "https://consultor.tuiaseguros.com.br/#/calculo-cotacao/fec190ab-1492-4bb0-8030-3bdab022e904",
+                                "name": "[URL] Cockpit"
+                            },
+                            {
+                                "value": "https://simular.tuiaseguros.com.br/#/quotes/precificacao/fec190ab-1492-4bb0-8030-3bdab022e904",
+                                "name": "URL da cotação"
+                            },
+                            {
+                                "value": "0.00",
+                                "name": "Valor da cotação"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}
